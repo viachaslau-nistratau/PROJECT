@@ -20,4 +20,4 @@ def check_all_dictionary(d, d_1): # объявление функции - про
 
 
 check_all_dictionary(all_spisok_wokers, sotrudnik)
-check_all_dictionary(all_spisok_wokers, sotrudnik_1)
+
